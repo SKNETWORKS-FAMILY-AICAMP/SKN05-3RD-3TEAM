@@ -71,7 +71,7 @@
 #### 3.5. Streamlit 구현
 - **UI/UX 최적화** 및 직관적인 화면 구현
 
-![image](img/image3.png)
+![image](img/image5.png)
 
 ---
 
