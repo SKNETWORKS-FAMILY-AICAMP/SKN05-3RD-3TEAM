@@ -111,8 +111,8 @@
 ### 📌 6. Streamlit 구현 결과
 - 프로젝트의 주요 기능과 모델을 **Streamlit**을 통해 직관적인 사용자 인터페이스로 구현했습니다.  
   이를 통해 규정 관련 정보를 쉽게 확인할 수 있습니다.
-  ![image](https://github.com/{username}/{repo}/raw/{branch}/path/to/image1.png)
-  ![image](https://github.com/{username}/{repo}/raw/{branch}/path/to/image2.png)
+  ![image](img/image1.png)
+  ![image](img/image2.png)
 
 
 ---
