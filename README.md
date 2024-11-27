@@ -45,7 +45,6 @@
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
 </div> 
-- OpenAI, LangChain, pypdfloader 등을 활용하여 백엔드 처리 예정
 
 ---
 
